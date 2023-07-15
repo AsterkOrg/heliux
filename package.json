@@ -1,0 +1,16 @@
+{
+  "name": "cble.js",
+  "version": "1.0.0",
+  "description": "Symplify building functional webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aluwi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://"
+  }
+}
