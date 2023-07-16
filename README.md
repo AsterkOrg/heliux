@@ -12,7 +12,7 @@ simplifying building webapp with beginner friendly syntax.
 ## Example
 ```js
 const cble = require('cble.js')
-const app = new cble({port: 8080p)
+const app = new cble({port: 8080)
 
 app.page('/', () => {
   return `
