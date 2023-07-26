@@ -1,3 +1,6 @@
-const cble = require('./src/class/main.js')
+const { page } = require('./src/page.js')
+const Component = require('./src/component.js')
 
-module.exports = { cble }
+module.exports = {
+  page, Component
+}
