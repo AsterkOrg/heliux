@@ -11,10 +11,9 @@ simplifying building webapp with beginner friendly syntax.
 
 ## Example
 ```js
-const cble = require('cble.js')
-const app = new cble({port: 8080)
+const { page } = require('cble.js')
 
-app.page('/', () => {
+page('/', () => {
   return `
   <h1>Hello World</h1>
   `
