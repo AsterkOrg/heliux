@@ -1,4 +1,4 @@
-<center>
+ep<center>
 <h1>cble.js</h1>
 <b>Symplify building functional webapp</b>
 </center><br>
@@ -19,4 +19,4 @@ page('/', () => {
   `
 })
 ```
-Learn more in [wiki](https://github.com/naronTeam/cble.js/wiki.git
+Learn more in [wiki](https://github.com/naronTeam/cble.js.wiki.git
