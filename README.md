@@ -1,13 +1,11 @@
-ep<center>
+<div align=center>
 <h1>cble.js</h1>
-<b>Symplify building functional webapp</b>
-</center><br>
-
-## About
-simplifying building webapp with beginner friendly syntax.
+<b>cble.js ia a node package to helping and simplify building webapp</b>
+</div>
 
 ## Feature
 - Easy to learn
+- Open source 
 
 ## Example
 ```js
