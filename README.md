@@ -17,4 +17,4 @@ page('/', () => {
   `
 })
 ```
-Learn more in [wiki](https://github.com/naronTeam/cble.js.wiki.git
+Learn more in [wiki](https://guthub.com/naronTeam/cble.js.wiki.git)
