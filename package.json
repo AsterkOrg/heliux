@@ -1,19 +1,16 @@
 {
-  "name": "cble.js",
-  "version": "1.0.1",
-  "description": "Symplify building functional webapp",
+  "name": "Heliux",
+  "version": "1.0.0",
+  "description": "build webapp with ease",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "scripts": {},
+  "keywords": ["api", "web", "website", "simple", "website", "builder"],
   "author": "Aluwi",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://"
+    "url": "https://github.com/asterOrg/heliux.git"
   },
   "dependencies": {
-    "express": "^4.18.2"
   }
 }

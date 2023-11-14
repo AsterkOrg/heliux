@@ -1,20 +1,32 @@
 <div align=center>
-<h1>cble.js</h1>
-<b>cble.js ia a node package to helping and simplify building webapp</b>
+  <img src='./heliux-banner.png'>
+  <h1>Heliux</h1>
+  <b>The webApp library </b>
+  <p>Make a WebApp with ease using Heliux</p>
 </div>
 
 ## Feature
 - Easy to learn
-- Open source 
+- simple
+- lightweight
+- Open source
 
 ## Example
 ```js
-const { page } = require('cble.js')
+const heliux = require('heliux');
 
-page('/', () => {
+const app = heliux.App({
+  port: 3000
+}); //making a app
+
+app.newPage('/', () => {
   return `
   <h1>Hello World</h1>
   `
-})
+}); //create new page 
+
+app.start(); //statrting the app
 ```
-Learn more in [wiki](https://guthub.com/naronTeam/cble.js.wiki.git)
+
+[Discord Server](https://discord.gg/)
+[Documentation](https://github.com/AsterOrg/heliux.wiki.git)

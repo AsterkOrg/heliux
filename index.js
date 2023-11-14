@@ -1,6 +1,6 @@
-const { page } = require('./src/page.js')
-const Component = require('./src/component.js')
+const express = require('express')
+const app = express.App()
 
 module.exports = {
-  page, Component
+  page, Component, deploy
 }
